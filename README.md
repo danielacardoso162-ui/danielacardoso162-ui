@@ -1,4 +1,4 @@
-## Olá, sou Daniela Cardoso 👋
+## Olá, Eu sou a Daniela Cardoso 👋
 
 - 🔭 Hoje trabalho com Front End
 - 🌱 Futuramente trabalhando com Back End e IA
